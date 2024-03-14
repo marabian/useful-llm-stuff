@@ -1,9 +1,8 @@
 # useful-llm-tools
 A random collection of useful LLM (or related) tools I've encountered.
 
-## Tools
 
-### Development and Testing
+## Development and Testing
 
 * [Ollama](https://ollama.com/) - Open-source, streamlined tool for running open-source LLMs locally. Supports command line and Python. Offers a convenient container image to help with deployment. All the models they support, they quantize in-house. It can run as a server/service on your machine, so instead of actually invoking via your python code, you're sending an HTTP request to the local Ollama server running: E.G. (from the ollama docs).  Ollama is an easy solution when you want to use an API for multiple different open source LLM's. It can switch from one to another llm in seconds.
 
@@ -21,7 +20,7 @@ A random collection of useful LLM (or related) tools I've encountered.
 
 * [Code Generation on Human Eval Benchmark](https://paperswithcode.com/sota/code-generation-on-humaneval) - This benchmark is a dataset that measures the code generation capabilities of large language models (LLMs). It was introduced in 2021 and is based on a dataset of 164 programming challenges. This is being provided by [Papers With Code](https://paperswithcode.com/sota).
 
-### Vector Databases
+## Vector Databases
 
 * [Weaviate](https://github.com/weaviate/weaviate) -  Open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. [Link to managed service](https://weaviate.io/).
 
@@ -29,7 +28,7 @@ A random collection of useful LLM (or related) tools I've encountered.
 
 * [Pinecone](https://www.pinecone.io/) - Low-latency managed service (serverless) vector database to retrieve relevant data for search, RAG, recommendation, detection, and other applications. 
 
-### Presentation
+## Presentation
 
 * [Streamlit](https://streamlit.io/) -  Free, open-source framework that allows users to build and share web apps for machine learning and data science. If you're looking to quickly create simple web applications, especially for data visualization and dashboards, Streamlit might be a better choice (instead of *Gradio*).
 
