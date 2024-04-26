@@ -20,6 +20,13 @@ A random collection of useful LLM (or related) tools I've encountered.
 
 * [Code Generation on Human Eval Benchmark](https://paperswithcode.com/sota/code-generation-on-humaneval) - This benchmark is a dataset that measures the code generation capabilities of large language models (LLMs). It was introduced in 2021 and is based on a dataset of 164 programming challenges. This is being provided by [Papers With Code](https://paperswithcode.com/sota).
 
+
+## Benchmarks
+
+* [LMSYS Chatbot Arena Leaderboard
+](https://chat.lmsys.org/?leaderboard) - Popular LLM Benchmark website
+
+
 ## Vector Databases
 
 * [Weaviate](https://github.com/weaviate/weaviate) -  Open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. [Link to managed service](https://weaviate.io/).
