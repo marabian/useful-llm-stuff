@@ -1,6 +1,10 @@
 # useful-llm-tools
 A random collection of useful LLM (or related) tools I've encountered.
 
+## Training
+
+* [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
+
 
 ## Development and Testing
 
