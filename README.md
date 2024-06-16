@@ -1,12 +1,18 @@
 # useful-llm-tools
 A random collection of useful LLM (or related) tools I've encountered.
 
-## Training
+## Training/Fune-tuning
 
 * [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
 
 
 ## Development and Testing
+
+* [Cohere Toolkit](https://docs.cohere.com/docs/cohere-toolkit) - Toolkit for building Agentic RAG applications. Includes a chat interface.
+
+* [Open WebUI](https://github.com/open-webui/open-webui) - Open-source local host chater interface for LLMs.
+
+* [LlamaIndex](https://www.llamaindex.ai/) - Open-source frameowrk for building Agentic RAG applications (supports local and hosted LLMs).
 
 * [Ollama](https://ollama.com/) - Open-source, streamlined tool for running open-source LLMs locally. Supports command line and Python. Offers a convenient container image to help with deployment. All the models they support, they quantize in-house. It can run as a server/service on your machine, so instead of actually invoking via your python code, you're sending an HTTP request to the local Ollama server running: E.G. (from the ollama docs).  Ollama is an easy solution when you want to use an API for multiple different open source LLM's. It can switch from one to another llm in seconds.
 
@@ -18,14 +24,13 @@ A random collection of useful LLM (or related) tools I've encountered.
 
 * [OpenAI Evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 
-* [LlamaIndex](https://www.llamaindex.ai/) - Tools for building RAGs.
-
 * [Rag Arena](https://www.ragarena.com/) - Tool for benchmarking/testing different retrieval methods of RAGs (mostly those supported by LangChain seems like).
-
-* [Code Generation on Human Eval Benchmark](https://paperswithcode.com/sota/code-generation-on-humaneval) - This benchmark is a dataset that measures the code generation capabilities of large language models (LLMs). It was introduced in 2021 and is based on a dataset of 164 programming challenges. This is being provided by [Papers With Code](https://paperswithcode.com/sota).
 
 
 ## Benchmarks
+
+* [Code Generation on Human Eval Benchmark](https://paperswithcode.com/sota/code-generation-on-humaneval) - This benchmark is a dataset that measures the code generation capabilities of large language models (LLMs). It was introduced in 2021 and is based on a dataset of 164 programming challenges. This is being provided by [Papers With Code](https://paperswithcode.com/sota).
+
 
 * [LMSYS Chatbot Arena Leaderboard
 ](https://chat.lmsys.org/?leaderboard) - Popular LLM Benchmark website
