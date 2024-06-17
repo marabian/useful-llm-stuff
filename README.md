@@ -50,6 +50,7 @@ A random collection of useful LLM (or related) stuff I've encountered.
 ## Utility
 
 * [Guidance/Grammar](https://huggingface.co/docs/text-generation-inference/en/conceptual/guidance) -  Constrain the generation of a large language model with a specified grammar (e.g. JSON format).
+* [Quantization](https://huggingface.co/docs/text-generation-inference/en/conceptual/quantization)
 
 ## Blogs
 
