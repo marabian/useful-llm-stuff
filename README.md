@@ -1,6 +1,6 @@
 # Useful LLM Stuff
 
-A random collection of useful LLM/ML (or related) stuff I've encountered.
+A random collection of useful LLM (or related) stuff I've encountered.
 
 ## Training/Fune-tuning
 
