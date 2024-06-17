@@ -2,6 +2,10 @@
 
 A random collection of useful LLM (or related) stuff I've encountered.
 
+## YouTube Videos
+
+- [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
+
 ## Blogs
 
 - [Fine-tune Llama 3 with PyTorch FSDP and Q-Lora on Amazon SageMaker (Philipp Schmid)](https://www.philschmid.de/sagemaker-train-deploy-llama3)
