@@ -1,5 +1,6 @@
-# useful-llm-tools
-A random collection of useful LLM (or related) tools I've encountered.
+# Useful LLM Stuff
+
+A random collection of useful LLM/ML (or related) stuff I've encountered.
 
 ## Training/Fune-tuning
 
@@ -50,8 +51,14 @@ A random collection of useful LLM (or related) tools I've encountered.
 
 * [Guidance/Grammar](https://huggingface.co/docs/text-generation-inference/en/conceptual/guidance) -  Constrain the generation of a large language model with a specified grammar (e.g. JSON format).
 
+## Blogs
+
+- [Fine-tune Llama 3 with PyTorch FSDP and Q-Lora on Amazon SageMaker (Philipp Schmid)](https://www.philschmid.de/sagemaker-train-deploy-llama3)
+
 ## Presentation
 
 * [Streamlit](https://streamlit.io/) -  Free, open-source framework that allows users to build and share web apps for machine learning and data science. If you're looking to quickly create simple web applications, especially for data visualization and dashboards, Streamlit might be a better choice (instead of *Gradio*).
 
 * [Gradio](https://www.gradio.app/) - Open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. You can then share a link to your demo or web application in just a few seconds using Gradio's built-in sharing features.
+
+
