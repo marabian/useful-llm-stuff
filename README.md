@@ -3,7 +3,7 @@ A random collection of useful LLM (or related) tools I've encountered.
 
 ## Training/Fune-tuning
 
-* [LoRA](https://huggingface.co/docs/diffusers/main/en/training/lora)
+* [LoRA Guide](https://huggingface.co/docs/diffusers/main/en/training/lora)
 
 
 ## Development and Testing
