@@ -41,13 +41,15 @@ A random collection of useful LLM (or related) stuff I've encountered.
 
 * [Open WebUI](https://github.com/open-webui/open-webui) - Open-source local host chater interface for LLMs.
 
-## Benchmarks
+## Benchmarks/Leaderboards
 
 * [Code Generation on Human Eval Benchmark](https://paperswithcode.com/sota/code-generation-on-humaneval) - This benchmark is a dataset that measures the code generation capabilities of large language models (LLMs). It was introduced in 2021 and is based on a dataset of 164 programming challenges.
 
 * [LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard) - Popular LLM Benchmark website
 
 * [MMLU with variants](https://paperswithcode.com/dataset/mmlu)
+
+* [MTEB](https://huggingface.co/spaces/mteb/leaderboard) -  Multi-task and multi-language comparison of embedding models. 
 
 
 
