@@ -4,7 +4,7 @@ A random collection of useful LLM (or related) stuff I've encountered.
 
 ## Reddit Threads
 - [GPT-4o "natively" multi-modal, what does this actually mean?](https://www.reddit.com/r/MachineLearning/comments/1crzdhd/d_gpt4o_natively_multimodal_what_does_this/)
-- [https://www.reddit.com/r/LocalLLaMA/comments/1cr9wvg/friendly_reminder_in_light_of_gpt4o_release/]
+- https://www.reddit.com/r/LocalLLaMA/comments/1cr9wvg/friendly_reminder_in_light_of_gpt4o_release/
 
 ## YouTube Videos
 
