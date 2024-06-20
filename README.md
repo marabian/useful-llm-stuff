@@ -1,6 +1,6 @@
 # Useful LLM Stuff
 
-A random collection of useful LLM (or related) stuff I've encountered.
+A random collection of useful/interesting LLM (or related) stuff I've encountered.
 
 ## Reddit Threads
 - [GPT-4o "natively" multi-modal, what does this actually mean?](https://www.reddit.com/r/MachineLearning/comments/1crzdhd/d_gpt4o_natively_multimodal_what_does_this/)
