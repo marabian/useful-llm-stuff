@@ -9,6 +9,7 @@ A random collection of useful LLM (or related) stuff I've encountered.
 ## YouTube Videos
 
 - [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
+- [How to save money with Gemini Context Caching](https://www.youtube.com/watch?v=WCw1xBREoWw)
 
 ## Blogs
 
