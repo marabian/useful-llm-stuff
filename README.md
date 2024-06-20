@@ -56,6 +56,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [MTEB](https://huggingface.co/spaces/mteb/leaderboard) -  Multi-task and multi-language comparison of embedding models. 
 
+* [Aider](https://aider.chat/docs/leaderboards/) - Aider works best with LLMs which are good at editing code, not just good at writing code.
 
 
 ## Vector Databases
