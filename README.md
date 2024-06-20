@@ -43,7 +43,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Rag Arena](https://github.com/mendableai/rag-arena) - Tool for benchmarking/testing different retrieval methods of RAGs (mostly those supported by LangChain seems like).
 
-* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Can compare RAG pipelines/rerankers. Has many open source rankers like TART, UPR, Colbert, Flag Reranker, etc.
+* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Can compare RAG pipelines/rerankers. Has many open source rankers like TART, UPR, Colbert, **Flag Reranker**, etc.
 
 ## GUIs
 
