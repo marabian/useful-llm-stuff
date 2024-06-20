@@ -24,7 +24,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 * [LoRA Guide](https://huggingface.co/docs/diffusers/main/en/training/lora)
 
 
-## Development and Testing
+## Development
 
 * [Cohere Toolkit](https://docs.cohere.com/docs/cohere-toolkit) - Toolkit for building Agentic RAG applications. Includes a chat interface.
 
@@ -34,11 +34,16 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [LangChain](https://www.langchain.com/) - Open-source framework that helps developers create applications using large language models.
 
+
+## Evaluation
+
 * [LangSmith](https://www.langchain.com/langsmith) - Framework built on the shoulders of LangChain. It's designed to track the inner workings of LLMs and AI agents within your product. It lets you debug, test, evaluate, and monitor chains and intelligent agents built on any LLM framework and seamlessly integrates with LangChain, the go-to open source framework for building with LLMs.
 
 * [OpenAI Evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 
 * [Rag Arena](https://github.com/mendableai/rag-arena) - Tool for benchmarking/testing different retrieval methods of RAGs (mostly those supported by LangChain seems like).
+
+* [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Can compare RAG pipelines/rerankers. Has many open source rankers like TART, UPR, Colbert, Flag Reranker, etc.
 
 ## GUIs
 
