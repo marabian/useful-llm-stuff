@@ -34,6 +34,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [LangChain](https://www.langchain.com/) - Open-source framework that helps developers create applications using large language models.
 
+* [Building a Basic Agent (Guide)](https://docs.llamaindex.ai/en/stable/understanding/agent/basic_agent/)
 
 ## Evaluation
 
