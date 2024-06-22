@@ -11,13 +11,15 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
 - [How to save money with Gemini Context Caching](https://www.youtube.com/watch?v=WCw1xBREoWw)
 
-## Blogs
+## Technical Blogs
 
 - [Fine-tune Llama 3 with PyTorch FSDP and Q-Lora on Amazon SageMaker (Philipp Schmid)](https://www.philschmid.de/sagemaker-train-deploy-llama3)
 - [Introducing Query Pipelines (LlamaIndex)](https://www.llamaindex.ai/blog/introducing-query-pipelines-025dc2bb0537)
 - [Every Way To Get Structured Output From LLMs (Boundary)](https://www.boundaryml.com/blog/structured-output-from-llms)
 - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
-
+- Optimizing AI Inference at Character.AI
+  * [Technical](https://research.character.ai/optimizing-inference/?ref=blog.character.ai)
+  * [Article](https://blog.character.ai/optimizing-ai-inference-at-character-ai/)
 
 ## Training/Fune-tuning
 
