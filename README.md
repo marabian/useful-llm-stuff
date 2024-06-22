@@ -17,9 +17,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [Introducing Query Pipelines (LlamaIndex)](https://www.llamaindex.ai/blog/introducing-query-pipelines-025dc2bb0537)
 - [Every Way To Get Structured Output From LLMs (Boundary)](https://www.boundaryml.com/blog/structured-output-from-llms)
 - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
-- Optimizing AI Inference at Character.AI
-  * [Technical](https://research.character.ai/optimizing-inference/?ref=blog.character.ai)
-  * [Article](https://blog.character.ai/optimizing-ai-inference-at-character-ai/)
+- [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/?ref=blog.character.ai)
 
 ## Training/Fune-tuning
 
