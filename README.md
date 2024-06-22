@@ -66,6 +66,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Aider](https://aider.chat/docs/leaderboards/) - Aider works best with LLMs which are good at editing code, not just good at writing code.
 
+* [Needle In A Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack?ref=research.character.ai) - A simple 'needle in a haystack' analysis to test in-context retrieval ability of long context LLMs.
 
 ## Vector Databases
 
