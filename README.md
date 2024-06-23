@@ -23,6 +23,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/?ref=blog.character.ai)
 - [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 - [Primer on Multimodal LLMs](https://aman.ai/primers/ai/VLM/)
+- [Diffusion Models](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 
 ## Training/Fune-tuning
 
