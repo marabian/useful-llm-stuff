@@ -92,4 +92,6 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Gradio](https://www.gradio.app/) - Open-source Python package that allows you to quickly build a demo or web application for your machine learning model, API, or any arbitrary Python function. You can then share a link to your demo or web application in just a few seconds using Gradio's built-in sharing features.
 
+## Human-Centered Artificial Intelligence (HCAI)
 
+* [Design @ Large: 40 Years of Chasing Users Down Rabbit Holes (YouTube Video)](https://www.youtube.com/watch?v=Rjx0e3kODMg)
