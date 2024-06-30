@@ -10,6 +10,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 - [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
 - [How to save money with Gemini Context Caching](https://www.youtube.com/watch?v=WCw1xBREoWw)
+- [The Complete Guide to Building a Custom AI Agent From Scratch for PDF Report Generation (LlamaIndex)](https://www.youtube.com/watch?v=i8ldunneSW8)
 
 ## Medium Articles
 - [Getting Started with RAG](https://medium.com/neuml/getting-started-with-rag-9a0cca75f748)
