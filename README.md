@@ -11,6 +11,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
 - [How to save money with Gemini Context Caching](https://www.youtube.com/watch?v=WCw1xBREoWw)
 - [The Complete Guide to Building a Custom AI Agent From Scratch for PDF Report Generation (LlamaIndex)](https://www.youtube.com/watch?v=i8ldunneSW8)
+- [10 years of NLP history explained in 50 concepts | From Word2Vec, RNNs to GPT](https://www.youtube.com/watch?v=uocYQH0cWTs&t=38s)
+- [Why Does Diffusion Work Better than Auto-Regression?](https://www.youtube.com/watch?v=zc5NTeJbk-k)
 
 ## Medium Articles
 - [Getting Started with RAG](https://medium.com/neuml/getting-started-with-rag-9a0cca75f748)
