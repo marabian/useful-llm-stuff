@@ -46,6 +46,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Building a Basic Agent (Guide)](https://docs.llamaindex.ai/en/stable/understanding/agent/basic_agent/)
 
+* [Pydantic Validation](https://pydantic.dev/articles/llm-validation) - Validate/get structured output from LLMs.
+
 * [Instructor](https://github.com/jxnl/instructor) - Getting Strucuted Output From LLMs
 
 * [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights.
