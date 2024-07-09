@@ -48,9 +48,11 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Pydantic Validation](https://pydantic.dev/articles/llm-validation) - Validate/get structured output from LLMs.
 
-* [Instructor](https://github.com/jxnl/instructor) - Getting Strucuted Output From LLMs
+* [Instructor](https://github.com/jxnl/instructor) - Getting Strucuted Output From LLMs.
 
 * [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights.
+
+* [vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine.
 
 ## Evaluation
 
