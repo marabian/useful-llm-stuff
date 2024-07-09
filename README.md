@@ -33,7 +33,6 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 * [LoRA Guide](https://huggingface.co/docs/diffusers/main/en/training/lora)
 
 
-
 ## Development
 
 * [Cohere Toolkit](https://docs.cohere.com/docs/cohere-toolkit) - Toolkit for building Agentic RAG applications. Includes a chat interface.
@@ -98,6 +97,17 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Guidance/Grammar](https://huggingface.co/docs/text-generation-inference/en/conceptual/guidance) -  Constrain the generation of a large language model with a specified grammar (e.g. JSON format).
 * [Quantization](https://huggingface.co/docs/text-generation-inference/en/conceptual/quantization)
+
+## Scraper
+
+* [JinaAI](https://jina.ai/reader/)
+
+* [ReworkdAI](https://www.reworkd.ai/)
+
+## Rerankers
+
+* [Cohere Reranker](https://cohere.com/rerank)
+
 
 ## Presentation
 
