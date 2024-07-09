@@ -46,7 +46,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Building a Basic Agent (Guide)](https://docs.llamaindex.ai/en/stable/understanding/agent/basic_agent/)
 
-* [Instructor (Getting Strucuted Output From LLMs)](https://github.com/jxnl/instructor)
+* [Instructor](https://github.com/jxnl/instructor) - Getting Strucuted Output From LLMs
 
 ## Evaluation
 
