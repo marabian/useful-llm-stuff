@@ -27,6 +27,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [GraphRAG: Unlocking LLM discovery on narrative private data](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
 - [Primer on Multimodal LLMs](https://aman.ai/primers/ai/VLM/)
 - [Diffusion Models](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
+- [Implementing ‘From Local to Global’ GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/)
 
 ## Training/Fune-tuning
 
