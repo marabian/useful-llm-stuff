@@ -56,6 +56,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [LLM Quantization Library](https://github.com/Vahe1994/AQLM)
 
+* [Build Agentic RAG with LlamaIndex](https://github.com/meta-llama/llama-recipes/tree/main/recipes/3p_integrations/llamaindex/dlai_agentic_rag)
+
 ## Evaluation
 
 * [LangSmith](https://www.langchain.com/langsmith) - Framework built on the shoulders of LangChain. It's designed to track the inner workings of LLMs and AI agents within your product. It lets you debug, test, evaluate, and monitor chains and intelligent agents built on any LLM framework and seamlessly integrates with LangChain, the go-to open source framework for building with LLMs.
