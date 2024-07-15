@@ -115,6 +115,9 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Cohere Reranker](https://cohere.com/rerank)
 
+## LLM UI
+
+* [OpenRouter](https://openrouter.ai/)
 
 ## Presentation
 
