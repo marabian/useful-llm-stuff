@@ -82,7 +82,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/?leaderboard) - Popular LLM Benchmark website
 
-* [MMLU with variants](https://paperswithcode.com/dataset/mmlu) - Benchmark designed to measure knowledge acquired during pretraining by evaluating models exclusively in zero-shot and few-shot settings. This makes the benchmark more challenging and more similar to how we evaluate humans. Uses multiple-choice questions.
+* [MMLU with variants](https://paperswithcode.com/dataset/mmlu) - Benchmark designed to measure knowledge acquired during pretraining by evaluating models exclusively in zero-shot and few-shot settings. This makes the benchmark more challenging and more similar to how we evaluate humans. Uses multiple-choice questions. Kind of outdated because of data leakage.
 
 * [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 
