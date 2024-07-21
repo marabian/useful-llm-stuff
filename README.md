@@ -29,7 +29,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [Diffusion Models](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 - [Implementing ‘From Local to Global’ GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/)
 * [RouterBench](https://blog.withmartian.com/post/router-bench)
-* [Thooughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
+* [Thoughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
 
 ## Training/Fune-tuning
 
