@@ -28,6 +28,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [Primer on Multimodal LLMs](https://aman.ai/primers/ai/VLM/)
 - [Diffusion Models](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 - [Implementing ‘From Local to Global’ GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/)
+* [RouterBench](https://blog.withmartian.com/post/router-bench)
+* [Thooughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
 
 ## Training/Fune-tuning
 
@@ -59,6 +61,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 * [Build Agentic RAG with LlamaIndex](https://github.com/meta-llama/llama-recipes/tree/main/recipes/3p_integrations/llamaindex/dlai_agentic_rag)
 
 * [GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
+
+
 
 ## Evaluation
 
