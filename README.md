@@ -32,6 +32,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [Implementing ‘From Local to Global’ GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/)
 * [RouterBench](https://blog.withmartian.com/post/router-bench)
 * [Thoughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
+* [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
+
 
 ## Training/Fune-tuning
 
