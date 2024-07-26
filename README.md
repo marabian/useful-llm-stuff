@@ -14,6 +14,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [10 years of NLP history explained in 50 concepts | From Word2Vec, RNNs to GPT](https://www.youtube.com/watch?v=uocYQH0cWTs&t=38s)
 - [Why Does Diffusion Work Better than Auto-Regression?](https://www.youtube.com/watch?v=zc5NTeJbk-k)
 - [LlamaIndex Webinar: Improving RAG with Advanced Parsing + Metadata Extraction](https://www.youtube.com/watch?v=V_-WNJgTvgg)
+- [ICML 2024 Tutorial: Physics of Language Models](https://www.youtube.com/watch?v=yBL7J0kgldU)
 
 
 ## Medium Articles
