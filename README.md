@@ -19,6 +19,9 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 ## Medium Articles
 - [Getting Started with RAG](https://medium.com/neuml/getting-started-with-rag-9a0cca75f748)
 
+## Notebooks
+- [Building a RAG pipeline with Metadata extraction](https://github.com/run-llama/llama_extract/blob/main/examples/rag/rag_metadata.ipynb)
+
 ## Technical Blogs
 
 - [Fine-tune Llama 3 with PyTorch FSDP and Q-Lora on Amazon SageMaker (Philipp Schmid)](https://www.philschmid.de/sagemaker-train-deploy-llama3)
