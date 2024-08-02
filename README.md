@@ -70,6 +70,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
 
+* [Aphrodite] - A fork of vLLM meant to serve batch requests at a high speed. On the fly quantization using SmoothQuant+ (--load-in-4-bit or --load-in-smooth)
 
 
 ## Evaluation
