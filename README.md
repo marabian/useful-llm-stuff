@@ -105,6 +105,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [Needle In A Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack?ref=research.character.ai) - A simple 'needle in a haystack' analysis to test in-context retrieval ability of long context LLMs.
 
+* [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
+
 ## Vector Databases
 
 * [Weaviate](https://github.com/weaviate/weaviate) -  Open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients. [Link to managed service](https://weaviate.io/).
