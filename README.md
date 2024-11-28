@@ -126,7 +126,9 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [JinaAI](https://jina.ai/reader/)
 
-* [ReworkdAI](https://www.reworkd.ai/)
+* [ReworkdAI](https://www.reworkd.ai/) - API for scraping webpages into LLM ingestable formats.
+
+* [steel-broswer](https://github.com/steel-dev/steel-browser) - The open-source browser API for AI agents & apps.
 
 ## Rerankers
 
