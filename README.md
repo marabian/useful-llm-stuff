@@ -83,6 +83,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 
 * [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) - Can compare RAG pipelines/rerankers. Has many open source rankers like TART, UPR, Colbert, **Flag Reranker**, etc.
 
+* [promptfoo](https://www.promptfoo.dev/) - Test & secure your LLM apps (open-source)
+
 ## GUIs
 
 * [LM Studio](https://lmstudio.ai/) - Easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs). You can't use multiple different LLM's on the LM Studio as a server. It's more for experimenting with different LLMs/parameters and getting it setup quickly using GPU resources.
