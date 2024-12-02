@@ -147,3 +147,8 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 ## Human-Centered Artificial Intelligence (HCAI)
 
 * [Design@Large: 40 Years of Chasing Users Down Rabbit Holes (YouTube Video)](https://www.youtube.com/watch?v=Rjx0e3kODMg)
+
+
+## Theory
+
+[What is Perplexity?](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
