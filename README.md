@@ -20,6 +20,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 ## Medium Articles
 - [Getting Started with RAG](https://medium.com/neuml/getting-started-with-rag-9a0cca75f748)
 - [Sentiment 2.0: From Labels to Layers](https://thegrigorian.medium.com/sentiment-2-0-from-labels-to-layers-236675e4dc84)
+- [Context is King — Evaluating real-time LLM context quality with Ragas](https://emergentmethods.medium.com/context-is-king-evaluating-real-time-llm-context-quality-with-ragas-a8df8e815dc9)
 
 ## Notebooks
 - [Building a RAG pipeline with Metadata extraction](https://github.com/run-llama/llama_extract/blob/main/examples/rag/rag_metadata.ipynb)
