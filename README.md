@@ -6,6 +6,10 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [GPT-4o "natively" multi-modal, what does this actually mean?](https://www.reddit.com/r/MachineLearning/comments/1crzdhd/d_gpt4o_natively_multimodal_what_does_this/)
 - https://www.reddit.com/r/LocalLLaMA/comments/1cr9wvg/friendly_reminder_in_light_of_gpt4o_release/
 
+## LinkedIn
+
+- [Top LLM Papers of the Week](https://www.linkedin.com/pulse/top-rag-papers-week-december-1-2024-kalyan-ks-aaecc/)
+
 ## YouTube Videos
 
 - [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
@@ -154,3 +158,5 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 ## Theory
 
 [What is Perplexity?](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
+
+
