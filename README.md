@@ -43,7 +43,7 @@ A random collection of useful/interesting LLM (or related) stuff I've encountere
 - [RouterBench](https://blog.withmartian.com/post/router-bench)
 - [Thoughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
 - [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
-
+- [Text-to-SQL Agent](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics)
 
 ## Training/Fune-tuning
 
