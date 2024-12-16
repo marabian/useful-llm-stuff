@@ -151,22 +151,22 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 
 ## Random
 
-### Random Technical Blogs
+### Technical Blogs
 
 - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 - [Optimizing AI Inference at Character.AI](https://research.character.ai/optimizing-inference/?ref=blog.character.ai)
 - [Diffusion Models](https://lilianweng.github.io/posts/2024-04-12-diffusion-video/)
 
 
-### Random Reddit Threads
+### Reddit Threads
 - [GPT-4o "natively" multi-modal, what does this actually mean?](https://www.reddit.com/r/MachineLearning/comments/1crzdhd/d_gpt4o_natively_multimodal_what_does_this/)
 - https://www.reddit.com/r/LocalLLaMA/comments/1cr9wvg/friendly_reminder_in_light_of_gpt4o_release/
 
-### Random LinkedIn
+### LinkedIn
 
 - [Top LLM Papers of the Week](https://www.linkedin.com/pulse/top-rag-papers-week-december-1-2024-kalyan-ks-aaecc/)
 
-### Random YouTube Videos
+### YouTube Videos
 
 - [How to save money with Gemini Context Caching](https://www.youtube.com/watch?v=WCw1xBREoWw)
 - [10 years of NLP history explained in 50 concepts | From Word2Vec, RNNs to GPT](https://www.youtube.com/watch?v=uocYQH0cWTs&t=38s)
