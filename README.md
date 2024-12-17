@@ -45,9 +45,10 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Thoughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
 - [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
 
-## File Processing
+## Document Parsing
 
-- [markitdown](https://github.com/microsoft/markitdown) - Utility tool for converting various files to Markdown (e.g. PDF, PowerPoint, Word)
+- [markitdown](https://github.com/microsoft/markitdown) - OSS utility tool for converting various files to Markdown (e.g. PDF, PowerPoint, Word)
+- [Docling](https://github.com/DS4SD/docling) - OSS Document processing tool by IBM
 
 ## Structured Output from LLMs
 
