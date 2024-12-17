@@ -44,6 +44,10 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Thoughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
 - [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
 
+## File Processing
+
+- [markitdown](https://github.com/microsoft/markitdown) - Utility tool for converting various files to Markdown (e.g. PDF, PowerPoint, Word)
+
 ## Structured Output from LLMs
 
 - [Every Way To Get Structured Output From LLMs (Boundary)](https://www.boundaryml.com/blog/structured-output-from-llms)
