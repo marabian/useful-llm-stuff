@@ -160,6 +160,12 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 * [What is Perplexity?](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
 * [Quantization](https://huggingface.co/docs/text-generation-inference/en/conceptual/quantization)
 
+## Tutorials
+
+### Gemini/Vertex AI
+
+- [Multimodal Live API demo: GenList](https://www.youtube.com/watch?v=gbObKqfqdlM)
+
 
 ## Misc
 
