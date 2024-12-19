@@ -45,6 +45,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Fine-tune Llama 3 with PyTorch FSDP and Q-Lora on Amazon SageMaker (Philipp Schmid)](https://www.philschmid.de/sagemaker-train-deploy-llama3)
 - [Thoughts on Llama 3](https://www.factorialfunds.com/blog/thoughts-on-llama-3)
 - [The Llama 3 Herd of Models](https://ai.meta.com/research/publications/the-llama-3-herd-of-models/)
+- [Cohere Toolkit](https://docs.cohere.com/docs/cohere-toolkit) - Toolkit for building Agentic RAG applications. Includes a chat interface.
 
 ## Document Parsing
 
@@ -75,22 +76,17 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 
 * [LoRA Guide](https://huggingface.co/docs/diffusers/main/en/training/lora)
 
-
-## Tools
-
-* [Cohere Toolkit](https://docs.cohere.com/docs/cohere-toolkit) - Toolkit for building Agentic RAG applications. Includes a chat interface.
+## Local LLM
 
 * [Ollama](https://ollama.com/) - Open-source, streamlined tool for running open-source LLMs locally. Supports command line and Python. Offers a convenient container image to help with deployment. All the models they support, they quantize in-house. It can run as a server/service on your machine, so instead of actually invoking via your python code, you're sending an HTTP request to the local Ollama server running: E.G. (from the ollama docs).  Ollama is an easy solution when you want to use an API for multiple different open source LLM's. It can switch from one to another llm in seconds.
 
-* [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights.
-
 * [vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine.
-
-* [LLM Quantization Library](https://github.com/Vahe1994/AQLM)
 
 * [Aphrodite] - A fork of vLLM meant to serve batch requests at a high speed. On the fly quantization using SmoothQuant+ (--load-in-4-bit or --load-in-smooth)
 
-* [Quantization](https://huggingface.co/docs/text-generation-inference/en/conceptual/quantization)
+* [LLM Quantization Library](https://github.com/Vahe1994/AQLM)
+
+
 
 ## Evaluation
 
@@ -134,11 +130,11 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 * [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
 
-## Prompting
+## Prompt Optimization
 
 - [LLM Prompting Conceptual Framework by IndyDevDan](https://www.youtube.com/watch?v=pytSbBRoFw8) - Categorizing prompts into 6 different types based on use-case
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library for auto-optimizing LLM prompts
-
+- [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights.
 
 ## Web Scrapers
 
@@ -161,8 +157,8 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 
 ## Theory
 
-[What is Perplexity?](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
-
+* [What is Perplexity?](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
+* [Quantization](https://huggingface.co/docs/text-generation-inference/en/conceptual/quantization)
 
 
 ## Misc
