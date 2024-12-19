@@ -3,7 +3,7 @@
 A random collection of useful/interesting AI (mostly LLM or related) stuff I've encountered.
 
 ## RAG
-***
+
 
 ### General
 
@@ -134,6 +134,12 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 * [Berkeley Function-Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html)
 
 
+## Prompting
+
+- [LLM Prompting Conceptual Framework by IndyDevDan](https://www.youtube.com/watch?v=pytSbBRoFw8) - Categorizing prompts into 6 different types based on use-case
+- [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library for auto-optimizing LLM prompts
+
+
 ## Web Scrapers
 
 * [JinaAI](https://jina.ai/reader/)
@@ -158,7 +164,8 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 [What is Perplexity?](https://www.comet.com/site/blog/perplexity-for-llm-evaluation/)
 
 
-## Random
+
+## Misc
 
 ### Technical Blogs
 
