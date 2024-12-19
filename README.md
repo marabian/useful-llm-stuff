@@ -50,6 +50,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [markitdown](https://github.com/microsoft/markitdown) - OSS utility tool for converting various files to Markdown (e.g. PDF, PowerPoint, Word)
 - [Docling](https://github.com/DS4SD/docling) - OSS Document processing tool by IBM
 - [Nvidia Blueprint](https://github.com/NVIDIA-AI-Blueprints/multimodal-pdf-data-extraction) - NVIDIA AI Blueprint for multimodal PDF data extraction for enterprise RAG
+- [pypdf](https://pypdf.readthedocs.io/en/stable/) - Default library for turning pdfs into text
 
 ## Structured Output from LLMs
 
