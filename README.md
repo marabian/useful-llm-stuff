@@ -165,7 +165,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 ### Gemini/Vertex AI
 
 - [Multimodal Live API demo: GenList](https://www.youtube.com/watch?v=gbObKqfqdlM)
-
+- [Gemini 2.0 Get Started Cookbook](https://github.com/google-gemini/cookbook/blob/main/gemini-2/get_started.ipynb)
 
 ## Misc
 
