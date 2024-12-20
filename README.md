@@ -65,7 +65,6 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Pydantic Validation](https://pydantic.dev/articles/llm-validation) - Validate/get structured output from LLMs.
 - [Instructor](https://github.com/jxnl/instructor) - Getting Strucuted Output From LLMs.
 - [Guidance/Grammar](https://huggingface.co/docs/text-generation-inference/en/conceptual/guidance) -  Constrain the generation of a large language model with a specified grammar (e.g. JSON format).
-- [The Truth About Ollama's Structured Outputs](https://www.youtube.com/watch?v=ljQ0i-F34a4)
 
 
 ## LlamaIndex
