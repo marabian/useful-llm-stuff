@@ -35,7 +35,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 
 ### OSS Libraries for RAG
 
-* [Raglite](https://github.com/superlinear-ai/raglite) - Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite
+* [Raglite](https://github.com/superlinear-ai/raglite) - Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite. [Click here] for Reddit thread.
 
 
 ## Agents
