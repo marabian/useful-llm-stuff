@@ -33,6 +33,11 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 * [Cohere Reranker](https://cohere.com/rerank)
 
 
+### OSS Libraries for RAG
+
+* [Raglite](https://github.com/superlinear-ai/raglite) - Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite
+
+
 ## Agents
 
 - [Text-to-SQL Agent](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics)
@@ -86,7 +91,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 
 * [LLM Quantization Library](https://github.com/Vahe1994/AQLM)
 
-
+* [Serving AI from the Basement](https://ahmadosman.com/blog/serving-ai-from-the-basement-part-ii/)
 
 ## Evaluation
 
