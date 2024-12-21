@@ -141,6 +141,8 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [LLM Prompting Mental Framework by IndyDevDan](https://www.youtube.com/watch?v=pytSbBRoFw8) - Categorizing prompts into 6 different types based on use-case
 - [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) - Library for auto-optimizing LLM prompts
 - [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights.
+- [Article about prompting by Francois Chollet]https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering
+
 
 ## Web Scrapers
 
