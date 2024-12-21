@@ -74,6 +74,10 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Build Agentic RAG with LlamaIndex](https://github.com/meta-llama/llama-recipes/tree/main/recipes/3p_integrations/llamaindex/dlai_agentic_rag)
 - [Building an Auto-Insurance Agentic Workflow from Scratch ](https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/auto_insurance_claims/auto_insurance_claims.ipynb)
 
+## LangChain/LangGraph
+
+- [Building Reliable Agents with LangGraph](https://www.youtube.com/watch?v=q1gXyyLksA8)
+
 ## VLMs
 
 - [Primer on Multimodal LLMs](https://aman.ai/primers/ai/VLM/)
