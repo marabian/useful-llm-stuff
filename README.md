@@ -77,6 +77,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 ## VLMs
 
 - [Primer on Multimodal LLMs](https://aman.ai/primers/ai/VLM/)
+- [Don\'t use LLMs for OCR](https://www.reddit.com/r/LocalLLaMA/comments/1hjfirl/comment/m36dovv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 
 ## Training/Fune-tuning
