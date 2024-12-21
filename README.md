@@ -72,6 +72,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Introducing Query Pipelines (LlamaIndex)](https://www.llamaindex.ai/blog/introducing-query-pipelines-025dc2bb0537)
 - [LlamaIndex Webinar: Improving RAG with Advanced Parsing + Metadata Extraction](https://www.youtube.com/watch?v=V_-WNJgTvgg)
 - [Build Agentic RAG with LlamaIndex](https://github.com/meta-llama/llama-recipes/tree/main/recipes/3p_integrations/llamaindex/dlai_agentic_rag)
+- [Building an Auto-Insurance Agentic Workflow from Scratch ](https://github.com/run-llama/llamacloud-demo/blob/main/examples/document_workflows/auto_insurance_claims/auto_insurance_claims.ipynb)
 
 ## VLMs
 
