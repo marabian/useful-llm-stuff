@@ -19,6 +19,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [Implementing ‘From Local to Global’ GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/)
 - [RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up](https://www.youtube.com/watch?v=ftlZ0oeXYRE)
 - [GraphRAG](https://www.microsoft.com/en-us/research/project/graphrag/)
+- [Building a Knowledge Graph From Scratch Using LLMs](https://towardsdatascience.com/building-a-knowledge-graph-from-scratch-using-llms-f6f677a17f07)
 
 ### Vector Databases
 
@@ -149,8 +150,15 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 - [DSPy](https://github.com/stanfordnlp/dspy) - Framework for algorithmically optimizing LM prompts and weights.
 - [Article about prompting by Francois Chollet](https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering)
 
+## LLM Monitoring
 
-## Web Scrapers
+- [promptfoo](https://www.promptfoo.dev/)  - OSS tool for testing & securing your LLM apps
+
+## Tooling
+
+- [e2b](https://e2b.dev/docs) - OSS version of Claude's artifacts (run Python/JS code in sandbox and render output)
+
+## Web Scrapers/Browser Autmation
 
 * [JinaAI](https://jina.ai/reader/)
 
@@ -158,6 +166,7 @@ A random collection of useful/interesting AI (mostly LLM or related) stuff I've 
 
 * [steel-broswer](https://github.com/steel-dev/steel-browser) - The open-source browser API for AI agents & apps.
 
+* [browser-use](https://github.com/browser-use/browser-use) - Popular OSS library for using web browser with LLMs
 
 ## LLM GUIs
 
